@@ -1,4 +1,4 @@
-#Learning Transferable Visual Models From Natural Language Supervision
+**# Learning Transferable Visual Models From Natural Language Supervision**
 
 Summary of CLIP model’s approach, from Learning Transferable Visual Models From Natural Language Supervision paper
 
